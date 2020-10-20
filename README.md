@@ -1,2 +1,2 @@
 # motodex-issues
-[Testing and tracking of issues in motodex app](https://github.com/up-shift/issues/issues)
+This repo has moved. Please submit new issues [here](https://github.com/up-shift/motodex/issues)
